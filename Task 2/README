@@ -1,1 +1,103 @@
+# 🏥 Hospital Management System
 
+## TechnoHacks Solutions - Java Development Internship
+
+This project was developed as **Task 2 (Mini Project)** during my **Java Developer Internship at TechnoHacks Solutions Pvt. Ltd.**
+
+The Hospital Management System is a desktop-based application developed using **Core Java, Java Swing, MySQL, and JDBC**. It automates various hospital operations such as patient management, doctor management, room allocation, appointments, billing, and patient discharge.
+
+---
+
+## 🚀 Features
+
+- Login Authentication
+- Patient Management
+- Doctor Management
+- Employee Management
+- Room Management
+- Appointment Management
+- Billing Management
+- Patient Discharge
+- MySQL Database Integration using JDBC
+
+---
+
+## 🛠 Technologies Used
+
+- Core Java
+- Java Swing
+- JDBC
+- MySQL
+- Eclipse IDE
+- MySQL Workbench
+
+---
+
+## 📂 Project Structure
+
+```text
+Hospital-Management-System/
+│
+├── src/
+├── icons/
+├── screenshots/
+├── README.md
+└── hospital_management_system.sql
+```
+
+---
+
+## 🗄 Database
+
+**Database Name**
+
+```text
+hospital_management_system
+```
+
+---
+
+## ⚙ How to Run the Project
+
+1. Clone this repository.
+2. Create the `hospital_management_system` database in MySQL.
+3. Import the SQL file (if available).
+4. Update the database username and password in `conn.java`.
+5. Open the project in Eclipse IDE.
+6. Run `Login.java`.
+
+---
+
+## 📸 Screenshots
+
+Add screenshots of:
+
+- Login Page
+- Reception Dashboard
+- Patient Management
+- Doctor Management
+- Appointment Management
+- Billing Module
+- Room Management
+
+---
+
+## 🎯 Internship Task
+
+**Internship:** Java Developer Internship
+
+**Company:** TechnoHacks Solutions Pvt. Ltd.
+
+**Task:** Task 2 – Mini Project
+
+**Project:** Hospital Management System
+
+---
+
+## 👩‍💻 Developed By
+
+**Arti Goyal**
+
+Java Developer Trainee Intern
+
+TechnoHacks Solutions Pvt. Ltd.
