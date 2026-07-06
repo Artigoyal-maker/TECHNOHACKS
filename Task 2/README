@@ -39,8 +39,12 @@ The Hospital Management System is a desktop-based application developed using **
 Hospital-Management-System/
 │
 ├── src/
-├── icons/
-├── screenshots/
+│   ├── hospital/
+│   │   └── management/
+│   │       └── system/
+│   │
+│   └── icons/
+│
 ├── README.md
 └── hospital_management_system.sql
 ```
